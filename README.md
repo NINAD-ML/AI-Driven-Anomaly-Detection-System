@@ -62,8 +62,7 @@ AI-Driven-Anomaly-Detection-System/
 
 ### 🧾 Author
 **Ninad Sarang**  
-Email: [your.email@example.com]  
-Date: November 2025  
+
 
 ---
 
